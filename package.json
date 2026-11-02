@@ -1,0 +1,7 @@
+{
+  "name": "student-feedback-analysis",
+  "version": "1.0.0",
+  "description": "Student feedback sentiment analysis: web app, API and model roadmap",
+  "scripts": { "start": "node server.js", "dev": "npx netlify-cli dev", "test": "node test.js" },
+  "license": "MIT"
+}
